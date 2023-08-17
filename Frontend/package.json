@@ -1,7 +1,9 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "private": true,
+  "description": "Page view to Classroom_UNIMINUTO project",
+  "author": "PíntoGamer64",
+  "license": "ISC",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -14,8 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "react-scripts test"
   },
   "eslintConfig": {
     "extends": [
