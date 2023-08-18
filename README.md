@@ -3,7 +3,7 @@
 
 ## Classroom UNIMINUTO Rework
 
-This project seeks to carry out a rework of the UNIMINUTO Virtual Classroom page with a new design and infrastructure.
+This project seeks to carry out a rework of the UNIMINUTO Virtual Classroom page with a new design and infrastructure. **[Official Site](https://aula01.uniminuto.edu/) require Microsoft x UNIMINUTO account**.
 
 *This project was bootstrapped with [NodeJs](https://nodejs.org/es).*
 
