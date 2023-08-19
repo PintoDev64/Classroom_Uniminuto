@@ -1,4 +1,3 @@
-
 ![Alt text](./Content/logo.png)
 
 ## Classroom UNIMINUTO Rework
@@ -10,6 +9,12 @@ This project seeks to carry out a rework of the UNIMINUTO Virtual Classroom page
 ## Instalation
 
 > `Writting.......`
+
+## Wireframes
+
+These are the [wireframes](https://www.figma.com/file/uulFlv2siHKZgKX1d7pvNK/Uniminuto-Classroom-Wireframes?type=design&node-id=0%3A1&mode=design&t=EuKnibBUVCejrDJp-1) of the base design designed for this project.
+
+## Console Scripts
 
 #### *<u>Available Scripts:</u> Frontend*
 
